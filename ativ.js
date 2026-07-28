@@ -1,6 +1,6 @@
-// 1 - 
-// console.log("Boas vindas!!");
-// 
+1 - 
+console.log("Boas vindas!!");
+
 
 // let num = 1;
 
