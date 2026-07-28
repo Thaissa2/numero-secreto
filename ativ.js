@@ -1,5 +1,5 @@
-1 - 
-console.log("Boas vindas galera!!");
+
+console.log("Boas vindas!!");
 
 
 // let num = 1;
